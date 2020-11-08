@@ -10,7 +10,7 @@ It takes input in the form and slider of values for Red, Green and Blue ranging 
 $ git clone https://github.com/arielllin/RGB-to-Hex-Converter.git
 
 # Go into the repository
-$ cd store-h5
+$ cd RGB-to-Hex-Converter
 
 # Render on your browser
 $ open index.html
